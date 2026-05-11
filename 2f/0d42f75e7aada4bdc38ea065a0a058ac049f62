@@ -1,0 +1,19 @@
+test-platform.json
+  s_9135f29879b7e8::t_6dac751dbf9772 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.6",
+  "base_commit_sha": "2f0d42f75e7aada4bdc38ea065a0a058ac049f62",
+  "prompts": {},
+  "sessions": {
+    "s_9135f29879b7e8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "52252c92-09a8-4f76-8eed-3a73f74c3bc6",
+        "model": "default"
+      },
+      "human_author": "Dmytro Shamsiiev <dmytro.shamsiiev@ventionteams.com>"
+    }
+  }
+}
