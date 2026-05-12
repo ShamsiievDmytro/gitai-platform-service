@@ -1,0 +1,19 @@
+tests/s1-05.json
+  s_5458d9e6808915::t_13e218a0edb24b 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.6",
+  "base_commit_sha": "746f052cad0493e25a09452959ff5d45f34c9244",
+  "prompts": {},
+  "sessions": {
+    "s_5458d9e6808915": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "706a2a90-ed09-4d04-9e71-bd2784748ef8",
+        "model": "unknown"
+      },
+      "human_author": "Dmytro Shamsiiev <dmytro.shamsiiev@ventionteams.com>"
+    }
+  }
+}
