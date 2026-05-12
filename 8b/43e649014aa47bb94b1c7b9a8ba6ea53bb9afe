@@ -1,0 +1,19 @@
+tests/stress-15.json
+  s_b57f178afbf56f::t_4860538e5bb69f 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.6",
+  "base_commit_sha": "8b43e649014aa47bb94b1c7b9a8ba6ea53bb9afe",
+  "prompts": {},
+  "sessions": {
+    "s_b57f178afbf56f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1c27-a0f2-7c23-b0e7-e7ca6de3272d",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Dmytro Shamsiiev <dmytro.shamsiiev@ventionteams.com>"
+    }
+  }
+}
