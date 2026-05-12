@@ -1,0 +1,6 @@
+{
+  "iter": 3,
+  "agent": "claude",
+  "mode": "pure-ai-multi-sibling",
+  "repo": "platform-service"
+}
