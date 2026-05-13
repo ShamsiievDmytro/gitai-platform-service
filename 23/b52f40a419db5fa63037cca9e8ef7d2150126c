@@ -1,0 +1,19 @@
+tests/T4S.json
+  s_8c0292b8355352::t_7c9ab52ee99361 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "23b52f40a419db5fa63037cca9e8ef7d2150126c",
+  "prompts": {},
+  "sessions": {
+    "s_8c0292b8355352": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e20ce-8948-78d3-8b9f-c13a15444a1b",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Dmytro Shamsiiev <dmytro.shamsiiev@ventionteams.com>"
+    }
+  }
+}
