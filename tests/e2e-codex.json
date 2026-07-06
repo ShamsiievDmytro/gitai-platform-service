@@ -1,0 +1,6 @@
+{
+  "test": "multirepo-e2e",
+  "agent": "codex",
+  "case": "B",
+  "repo": "platform-service"
+}
