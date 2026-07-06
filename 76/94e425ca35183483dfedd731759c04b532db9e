@@ -1,0 +1,19 @@
+tests/skills-copilot.json
+  s_d5bdf158ac212f::t_5528cc005f92c4 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7694e425ca35183483dfedd731759c04b532db9e",
+  "prompts": {},
+  "sessions": {
+    "s_d5bdf158ac212f": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "55e7fb7e-3bda-4af3-bf87-05bf823ba639",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "QA <qa@example.com>"
+    }
+  }
+}
