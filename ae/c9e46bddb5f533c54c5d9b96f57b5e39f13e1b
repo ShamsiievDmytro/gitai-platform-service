@@ -1,0 +1,19 @@
+tests/e2e-codex.json
+  s_5e953f50c36248::t_dbdc8db72bf3cb 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "aec9e46bddb5f533c54c5d9b96f57b5e39f13e1b",
+  "prompts": {},
+  "sessions": {
+    "s_5e953f50c36248": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f379d-f8cf-7170-a926-47d4169accaa",
+        "model": "gpt-5.5"
+      },
+      "human_author": "QA <qa@example.com>"
+    }
+  }
+}
