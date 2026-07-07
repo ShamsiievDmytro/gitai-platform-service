@@ -1,0 +1,19 @@
+tests/e2e.txt
+  s_82788c8139d3f4::t_bb7dbccb8ebe42 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e1f4ccf3ab344757e5639555481e8529009a1743",
+  "prompts": {},
+  "sessions": {
+    "s_82788c8139d3f4": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "6eb71daa-346c-4cf2-8f94-fee7a42571f8",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "QA <qa@example.com>"
+    }
+  }
+}
